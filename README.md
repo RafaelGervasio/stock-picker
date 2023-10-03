@@ -1,1 +1,1 @@
-# sub-strings
+#stock-picker 
